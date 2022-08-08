@@ -1,6 +1,8 @@
 # django_server_template
 ---
 
+## This a simple django app
+
 ### Run this server
 `django runserver`
 
