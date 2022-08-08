@@ -11,7 +11,7 @@
 # TODO
 
 ## 1. Fix the server
-Something is happening with the server, the server is trying to run on port 8080, but when making request to / we aren't able to receive the health check.
+Something is happening with the server, the server is trying to run on port 8080, but when making request to "/" we're getting a error.
 
 ## 2. Send the greetings from /greetings
 Cool! you just fixed the server. Wait a second... ohhh no we aren't able to send response from /greetings route, fix the route to send the greetings.
