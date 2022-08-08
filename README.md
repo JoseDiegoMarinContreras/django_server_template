@@ -4,7 +4,7 @@
 ## This a simple django app
 
 ### Run this server
-`python manage.py runserver`
+`python .\manage.py runserver`
 
 ---
 
