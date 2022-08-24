@@ -18,11 +18,15 @@ Cool! you just fixed the server. Wait a second... ohhh no we aren't able to send
 
 ## 3. Create more endpoints
 Woow you are killing it, you already fix the server and we are sending greetings. Now we need to create more endpoints.
-Using the API of [Rick and Morty](https://rickandmortyapi.com/documentation/#rest) we need to create the following endpoint.
-- Get all the characters
+Using the API of [PokéAPI](https://pokeapi.co/) we need to create the following endpoint.
+- /pokeapi
+  + Get 10 pokemons
+  + Sorted it
+  + Fetch the data of url property
 
 ---
 ### Extra points
-- Get one character
-- Search for a character
+- Create a react app
+`npx create-react-app --template=typescript`
+- Display the pokemons in a list and when click on a pokemon show their details (url props)
 ---
